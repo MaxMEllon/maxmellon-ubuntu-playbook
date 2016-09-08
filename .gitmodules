@@ -7,3 +7,6 @@
 [submodule "dotfiles-playbook"]
 	path = dotfiles-playbook
 	url = https://github.com/MaxMEllon/dotfiles-playbook.git
+[submodule "rbenv-playbook"]
+	path = rbenv-playbook
+	url = https://github.com/MaxMEllon/rbenv-playbook

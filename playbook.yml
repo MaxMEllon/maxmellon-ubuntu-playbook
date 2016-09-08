@@ -1,3 +1,4 @@
+- include: tmux-playbook/playbook.yml
 - include: dotfiles-playbook/playbook.yml
 - include: vim-playbook/playbook.yml
-- include: tmux-playbook/playbook.yml
+- include: rbenv-playbook/playbook.yml
