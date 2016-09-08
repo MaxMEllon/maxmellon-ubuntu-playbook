@@ -1,0 +1,9 @@
+[submodule "tmux-playbook"]
+	path = tmux-playbook
+	url = https://github.com/MaxMEllon/tmux-playbook
+[submodule "vim-playbook"]
+	path = vim-playbook
+	url = https://github.com/MaxMEllon/vim-playbook.git
+[submodule "dotfiles-playbook"]
+	path = dotfiles-playbook
+	url = https://github.com/MaxMEllon/dotfiles-playbook.git
