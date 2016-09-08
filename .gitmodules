@@ -10,3 +10,6 @@
 [submodule "rbenv-playbook"]
 	path = rbenv-playbook
 	url = https://github.com/MaxMEllon/rbenv-playbook
+[submodule "nvm-playbook"]
+	path = nvm-playbook
+	url = https://github.com/MaxMEllon/nvm-playbook.git
