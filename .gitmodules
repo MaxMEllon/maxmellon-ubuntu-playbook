@@ -13,3 +13,6 @@
 [submodule "nvm-playbook"]
 	path = nvm-playbook
 	url = https://github.com/MaxMEllon/nvm-playbook.git
+[submodule "nginx-playbook"]
+	path = nginx-playbook
+	url = https://github.com/MaxMEllon/nginx-playbook
