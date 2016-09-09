@@ -5,13 +5,13 @@ About
 
 This playbook is setup of my ubunutu.
 
-|command | version | badge |
-|---     | ---     | ---   |
-| `node` | v6.5.0  | |
-| `ruby` | v2.3.0  | [![Build Status](https://travis-ci.org/MaxMEllon/rbenv-playbook.svg?branch=master)](https://travis-ci.org/MaxMEllon/rbenv-playbook) |
-| `zsh`  | 5.6     | |
-| `tmux` | 2.2     | |
-| `vim`  | latest  | |
+| command | version | badge |
+|---      | ---     | ---   |
+| `node`  | v6.5.0  | [![Build Status](https://travis-ci.org/MaxMEllon/nvm-playbook.svg?branch=master)](https://travis-ci.org/MaxMEllon/nvm-playbook) |
+| `ruby`  | v2.3.0  | [![Build Status](https://travis-ci.org/MaxMEllon/rbenv-playbook.svg?branch=master)](https://travis-ci.org/MaxMEllon/rbenv-playbook) |
+| `zsh`   | 5.6     | |
+| `tmux`  | 2.2     | |
+| `vim`   | latest  | |
 
 Usage
 ---
